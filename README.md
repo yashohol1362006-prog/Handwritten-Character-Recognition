@@ -3,7 +3,7 @@
 An AI-powered handwritten English alphabet recognition system that identifies handwritten characters (A–Z) using **Convolutional Neural Networks (CNN)**, TensorFlow, OpenCV and the EMNIST Letters dataset.
 
 The project provides an interactive web application built with Streamlit, allowing users to upload handwritten character images and receive real-time predictions with confidence scores.
-
+ 
 ---
 
 ## 🚀 Project Overview
